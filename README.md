@@ -1,6 +1,6 @@
 # LinearRegressions
-In PSTAT 126, we use R-Studio to analyze and interpret datasets. 
-Here, see my code and its output on some very interesting problems, plus my interpretations and some pure statistical maths.
-I cannot upload the original questions, so I hope it is clear from the context what issues I am addressing in each problem.
+In PSTAT 126, we use R-Studio to analyze and interpret datasets. Here are some of those projects.
+For each question, I've included the R code I used, the output it produced, and my interpretation of graphs and equations. 
+Some problems require only a proof, without code. 
 
 Thank you!
